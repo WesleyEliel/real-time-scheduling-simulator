@@ -102,7 +102,7 @@ Ce simulateur a été développé dans le cadre d'un projet universitaire sur l'
 
 Ce projet a été réalisé en collaboration avec :
 
-- **[@contributeur1-github](https://github.com/contributeur1)** - Recherche théorique et validation des algorithmes
+- **[@ahgama6](https://github.com/ahgama6)** - Recherche théorique et validation des algorithmes
 - **[@dric2000](https://github.com/dric2000)** - Documentation et Mise en place de la présentation
 - **[@WesleyEliel](https://github.com/WesleyEliel)** - Développement et implémentation
 
